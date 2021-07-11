@@ -1,0 +1,1 @@
+# Wrapper for the other scripts. Takes an input file, uploads it, gets it anaylsed then adds subtitles to it. 

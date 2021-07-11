@@ -1,0 +1,5 @@
+wheel
+PyVimeo
+azure-identity
+azure-mgmt-media
+azure-storage-blob

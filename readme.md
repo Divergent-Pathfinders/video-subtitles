@@ -20,3 +20,5 @@ This script is intended to be run interactively from the command line. Relevant 
 ## Requirements
 
 You'll need at least a Vimeo Pro subscription and an Azure Media Services subscription. You'll also need the Vimeo Python SDK and the Azure Python SDK.
+
+You can install the necessary Python modules using *pip install -r requirements.txt*.

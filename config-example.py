@@ -1,0 +1,1 @@
+# Dummy version of the config file. Edit this and save it as config.py to make it work properly.
